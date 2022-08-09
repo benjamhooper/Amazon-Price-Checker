@@ -8,7 +8,7 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "nightmare": "^3.0.2"
+  "devDependencies": {
+    "geckodriver": "^3.0.2"
   }
 }
